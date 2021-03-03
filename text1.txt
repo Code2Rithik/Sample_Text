@@ -1,2 +1,17 @@
 Hello I am Rithik
 I like HTML, CSS and JS
+I like Git and GitHub
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec libero ex. 
+ 
+ Vivamus mattis quam eu molestie lacinia. Morbi vel rutrum turpis. Donec nulla metus, porta lacinia dui eu, mollis ultricies leo. 
+ 
+ Donec nisi orci, tempus et mi a, ultricies dictum ligula. Sed sed vulputate massa. 
+ 
+ Donec lobortis, diam eget blandit semper, purus tellus rutrum ipsum, ut imperdiet nisl est et tortor. 
+ 
+ Phasellus rhoncus, nunc et euismod faucibus, purus justo semper elit, eu finibus ipsum sem at mauris. 
+ 
+ Donec vehicula condimentum magna, at eleifend nibh facilisis vel. Vestibulum elementum, odio vitae vestibulum dignissim, erat ante venenatis nunc, ut malesuada lectus velit a lacus. 
+ 
+ Vivamus vitae tellus ultricies, suscipit nisl ut, faucibus dui. 
